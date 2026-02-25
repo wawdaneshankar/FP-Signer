@@ -31,5 +31,5 @@ After loading the extension:
 
 ## What It Does
 
-- Adds signature headers automatically
+- Auto-updates X-Fp-Date and X-Fp-Signature on outgoing requests from selected Burp tools.
 - Matches based on host regex
